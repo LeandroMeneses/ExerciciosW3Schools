@@ -1,6 +1,13 @@
 public class JavaSyntax {
     public static void main(String[] args) {
-        String texto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        System.out.println("O comprimento do texto String é: " + texto.length());
+        System.out.println("Hello World");
     }
 }
+
+//ESTE É O COMENTÁRIO UM UMA LINHA
+
+/* ESTE É O COMENTÁRIO PARA VÁRIAS LINHA
+ * 
+ *  SENAI DF
+ * 
+ */
